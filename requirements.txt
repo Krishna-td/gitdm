@@ -1,0 +1,3 @@
+python
+pandas
+jupyter notebook
